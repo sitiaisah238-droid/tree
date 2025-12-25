@@ -1,0 +1,8 @@
+
+{
+  "name": "Cinematic AI Christmas Tree",
+  "description": "A dreamlike 3D Christmas experience with hand gesture interaction, floating particles, and AI-powered festive greetings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
